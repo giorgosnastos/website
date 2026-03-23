@@ -15,7 +15,7 @@ const Hero = () => {
         <div className="max-w-2xl">
           <div className="inline-flex items-center gap-2 bg-accent/20 text-accent-foreground rounded-full px-4 py-1.5 text-sm font-medium mb-6">
             <CheckCircle className="w-4 h-4" />
-            20+ χρόνια εμπειρίας – Εξουσιοδοτημένος Αντιπρόσωπος RBS
+            25+ χρόνια εμπειρίας – Εξουσιοδοτημένος Αντιπρόσωπος RBS
           </div>
 
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-display font-800 text-primary-foreground leading-tight mb-6">

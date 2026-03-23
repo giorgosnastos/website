@@ -48,8 +48,7 @@ const Contact = () => {
             </div>
             <p className="text-sm text-primary-foreground/60 mb-1">Ωράριο</p>
             <div className="text-primary-foreground font-medium space-y-1">
-              <p>Καθημερινά: <span className="font-semibold">9:00 – 14:00</span></p>
-              <p>Τρί · Πέμ · Παρ: <span className="font-semibold">18:00 – 20:00</span></p>
+              <p>Καθημερινές(Δευτέρα - Παρασκευή): <span className="font-semibold">9:00 – 14:00 & 17:00 - 21:00</span></p>
               <p>Σάββατο: <span className="font-semibold">10:00 – 13:00</span></p>
             </div>
           </div>
