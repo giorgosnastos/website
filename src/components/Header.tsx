@@ -16,7 +16,7 @@ const Header = () => {
     <header className="fixed top-0 left-0 right-0 z-50 bg-primary/95 backdrop-blur-md border-b border-primary-foreground/10">
       <div className="container mx-auto px-4 h-16 flex items-center justify-between">
         <a href="#hero" className="font-display text-xl font-800 text-primary-foreground tracking-tight">
-          ΧΡΙΣΤΟΦΟΡΟΣ
+          ΧΡΙΣΤΟΦΟΡΟΣ ΝΑΣΤΟΣ
         </a>
 
         {/* Desktop nav */}
